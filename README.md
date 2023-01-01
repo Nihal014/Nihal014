@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io
+
 <h1 align="center">Hi 👋, I'm Muhammed Nihal</h1>
 <h3 align="center">A passionate developer from India</h3>
-(img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")")
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently working on **Money Management app**
 
