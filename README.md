@@ -1,4 +1,4 @@
-![logo](https://github.com/Nihal014/Nihal014/blob/main/Untitled%20presentation.png)
+![logo]
 ### Hi there 👋
 
 
